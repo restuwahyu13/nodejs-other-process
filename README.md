@@ -40,4 +40,4 @@ Di **real case** terkadang kita membutuhkan sebuah process yang berjalan secara 
       + [x] Pengunaan memory dan cpu meningkat seiring semakin banyak nya process
 
 
-Penjelasan terkait `worker_threads` dan `child_process`, berdasarkan hasil explorisasi saya dan yang saya amati dari setiap process nya, jika anda masih penasaran dan haus informasi silahkan tinggal di explore saja, perlu di ingat ini beda dengan konsep `cluster`, kalau module `cluster` digunakan untuk menggunakan semua thread yang ada, dikarenakan by default nodejs itu single thread, tetapi anda bisa menggabungkannya konsep semuanya.
+Penjelasan terkait `worker_threads` dan `child_process`, berdasarkan hasil explorisasi saya dan yang saya amati dari setiap process nya, jika anda masih penasaran dan haus informasi silahkan tinggal di explore saja, perlu di ingat ini beda dengan konsep `cluster`, kalau module `cluster` digunakan untuk menggunakan semua thread yang ada, dikarenakan by default nodejs itu single thread, tetapi anda bisa menggabungkannya konsep semuanya.# nodejs-other-process
